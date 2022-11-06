@@ -19,10 +19,48 @@ h1, h2 {
     font-family: Quciksand, sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: black;
+    color: #3F4A3C;
 }
 
 #logo {
     float: left;
     font-size: 300%;
+}
+
+/* nav links */
+
+#menu {
+    font-size: 110%;
+    letter-spacing: 2px;
+}
+
+#menu, #logo {
+    line-height: 75px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+    padding: 4px 4px;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: all 0.5s ease-in-out;
+    border: 1px solid #fff;
+    margin: 0 10px;
+}
+
+#menu a:hover {
+    border: 10;
+    box-shadow: 0 0 6px #e3b448;
+}
+
+.active {
+    border: 10;
+    box-shadow: 0 0 6px #e3b448;
 }
