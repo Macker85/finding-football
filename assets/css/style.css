@@ -10,4 +10,19 @@
 body {
     font-family: roboto, sans-serif;
     font-weight: 400;
+    color: #3a3a3a;
+}
+
+/* headings and logo */
+
+h1, h2 {
+    font-family: Quciksand, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: black;
+}
+
+#logo {
+    float: left;
+    font-size: 300%;
 }
