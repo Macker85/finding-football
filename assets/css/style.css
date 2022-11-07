@@ -152,6 +152,7 @@ footer {
     clear: both;
     line-height: 0px;
     column-count: 3;
+    column-gap: 0;
 }
 
 #photos img {
