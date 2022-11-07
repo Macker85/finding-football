@@ -11,6 +11,7 @@ body {
     font-family: roboto, sans-serif;
     font-weight: 400;
     color: #3a3a3a;
+    background-color: #cbd18f;
 }
 
 /* headings and logo */
@@ -24,6 +25,7 @@ h1, h2 {
 
 #logo {
     float: left;
+    margin-left: 25px;
     font-size: 300%;
 }
 
@@ -69,7 +71,6 @@ h1, h2 {
 
 #section1 {
     width: 100%;
-    margin: 10 0;
 }
 
 #hero-image {
@@ -124,11 +125,14 @@ h1, h2 {
 
 footer {
     height: 150px;
+    left: 0;
+    bottom: 0;
     clear: both;
 }
 
 .social-networks {
     text-align: center;
+    background-color: #3a6b35;
 }
 
 .social-networks > li {
