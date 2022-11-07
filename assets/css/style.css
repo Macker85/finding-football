@@ -17,7 +17,7 @@ body {
 /* headings and logo */
 
 h1, h2 {
-    font-family: Quciksand, sans-serif;
+    font-family: Quicksand, sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
     color: #3F4A3C;
@@ -123,14 +123,10 @@ h1, h2 {
 
 /* footer */
 
-footer {
-    height: 150px;
-    left: 0;
-    bottom: 0;
-    clear: both;
-}
+
 
 .social-networks {
+    height: 200px;
     text-align: center;
     background-color: #3a6b35;
 }
@@ -140,10 +136,17 @@ footer {
 }
 
 .social-networks i {
-    font-size: 160%;
+    font-size: 250%;
     margin: 1%;
-    padding: 5%;
-    color: #3a3a3a;
+    padding: 8%;
+    color: #e3b448;
+}
+
+footer {
+    height: 130px;
+    left: 0;
+    bottom: 0;
+    clear: both;
 }
 
 /* gallery */
@@ -159,4 +162,12 @@ footer {
     width: 100%;
     border-radius: 5px;
     margin: 5px;
+}
+
+/* where and when layout */
+
+#games-available {
+    clear: both;
+    text-align: center;
+    padding: 50px 50px 50px;
 }
