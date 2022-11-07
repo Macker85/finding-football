@@ -122,10 +122,22 @@ h1, h2 {
 
 /* footer */
 
-#social-links {
-    position:fixed;
-    left:0px;
-    bottom:0px;
-    height:75px;
-    width:100%;
- }
+footer {
+    height: 150px;
+    clear: both;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #3a3a3a;
+}
