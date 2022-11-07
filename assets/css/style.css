@@ -119,3 +119,13 @@ h1, h2 {
     float: left;
     padding-top: 20px;
 }
+
+/* footer */
+
+#social-links {
+    position:fixed;
+    left:0px;
+    bottom:0px;
+    height:75px;
+    width:100%;
+ }
