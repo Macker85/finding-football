@@ -88,16 +88,34 @@ h1, h2 {
     padding-top: 20px;
 }
 
-/* text properties */
+/* text properties for home page */
 
-h2 {
+.h2-home {
     line-height: 40px;
     text-align: center;
     padding: 100px 20px 50px;
 }
 
-p {
+.p-home {
     line-height: 30px;
     text-align: center;
     padding: 0 20px;
+}
+
+/* more info section */
+
+#more-information {
+    width: 50%;
+    height: 500px;
+    float: left;
+    padding-top: 20px;
+}
+
+#boots {
+    width: 50%;
+    height: 500px;
+    background: url('../images/football-boots-hanging.jpeg') no-repeat center center;
+    overflow: hidden;
+    float: left;
+    padding-top: 20px;
 }
