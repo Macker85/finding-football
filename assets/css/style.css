@@ -123,12 +123,11 @@ h1, h2 {
 
 /* footer */
 
-
-
 .social-networks {
     height: 200px;
     text-align: center;
     background-color: #3a6b35;
+    bottom: 0;
 }
 
 .social-networks > li {
@@ -170,4 +169,20 @@ footer {
     clear: both;
     text-align: center;
     padding: 50px 50px 50px;
+}
+
+#left-half {
+    height: 500px;
+    width: 50%;
+    float: left;
+    padding-top: 20px;
+    background-color: aqua;
+}
+
+#right-half {
+    height: 500px;
+    width: 50%;
+    float: right;
+    padding-top: 20px;
+    background-color: blanchedalmond;
 }
