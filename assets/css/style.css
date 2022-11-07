@@ -145,3 +145,15 @@ footer {
     padding: 5%;
     color: #3a3a3a;
 }
+
+/* gallery */
+
+#photos {
+    clear: both;
+    line-height: 0px;
+    column-count: 3;
+}
+
+#photos img {
+    width: 100%;
+}
