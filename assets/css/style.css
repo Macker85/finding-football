@@ -65,11 +65,39 @@ h1, h2 {
     box-shadow: 0 0 6px #e3b448;
 }
 
-/* hero-image */
+/* hero-image and intro*/
+
+#section1 {
+    width: 100%;
+    margin: 10 0;
+}
 
 #hero-image {
+    width: 50%;
     height: 500px;
-    width: 100%;
     background: url('../images/Hero-image.jpeg') no-repeat left center;
-    padding: 75px 50px;
+    overflow: hidden;
+    float: left;
+    padding-top: 20px;
+}
+
+#introduction {
+    width: 50%;
+    height: 500px;
+    float: right;
+    padding-top: 20px;
+}
+
+/* text properties */
+
+h2 {
+    line-height: 40px;
+    text-align: center;
+    padding: 100px 20px 50px;
+}
+
+p {
+    line-height: 30px;
+    text-align: center;
+    padding: 0 20px;
 }
