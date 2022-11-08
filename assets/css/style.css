@@ -222,7 +222,10 @@ tr, th {
 /* Contact us form */
 
 #contact-form {
+    margin: 0 auto;
+    width: 500px;
     clear: both;
+    background-image: url(../images/background-photo.jpeg) no-repeat center center;
 }
 
 .form-overview {
@@ -236,8 +239,6 @@ tr, th {
 }
 
 .contact-label {
-    padding: 10px 10px;
-    margin: 10px;
     box-sizing: border-box;
 }
 
