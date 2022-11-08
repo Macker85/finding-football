@@ -130,11 +130,15 @@ h1, h2 {
 
 /* footer */
 
+footer {
+    left: 0;
+    bottom: 0;
+    clear: both;
+}
+
 .social-networks {
-    height: 200px;
     text-align: center;
     background-color: #3a6b35;
-    bottom: 0;
 }
 
 .social-networks > li {
@@ -142,17 +146,10 @@ h1, h2 {
 }
 
 .social-networks i {
-    font-size: 250%;
+    font-size: 200%;
     margin: 1%;
     padding: 8%;
     color: #e3b448;
-}
-
-footer {
-    height: 130px;
-    left: 0;
-    bottom: 0;
-    clear: both;
 }
 
 /* gallery */
