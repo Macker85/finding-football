@@ -239,7 +239,7 @@ tr, th {
 
 .form-overview > ul {
     list-style-type: none;
-    padding: 5%;
+    padding: 15%;
 }
 
 .contact-label {
@@ -261,6 +261,11 @@ tr, th {
     padding: 10px 10px;
     margin: 5% 15%;
     cursor: pointer;
+}
+
+.submit-button:hover {
+    border: 10;
+    box-shadow: 0 0 20px #e3b448;
 }
 
 /* Media queries */
