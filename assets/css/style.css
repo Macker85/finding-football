@@ -185,13 +185,13 @@ footer {
     padding-top: 20px;
 }
 
-#game-1 > p {
+#game-1 > h3 {
     text-align: center;
     text-transform: uppercase;
     padding: 10px;
 }
 
-#game-2 > p {
+#game-2 > h3 {
     text-align: center;
     text-transform: uppercase;
     padding: 10px;
