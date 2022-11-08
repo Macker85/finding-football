@@ -223,18 +223,16 @@ tr, th {
 
 #contact-form {
     clear: both;
-    margin: 0 auto;
-    width: 400px;
 }
 
 .form-overview {
     border: 1px solid #e3b448;
     width: 500px;
-    padding: 10px;
 }
 
 .form-overview > ul {
     list-style-type: none;
+    padding: 5%;
 }
 
 .contact-label {
@@ -245,12 +243,12 @@ tr, th {
 
 .contact-input{
     width: 100%;
-    padding: 10px 10px;
-    margin: 10px;
+    padding: 10px;
     box-sizing: border-box;
 }
 
 .submit-button {
+    width: 100%;
     background-color: #3a6b35;
     color: #e3b448;
     border: none;
