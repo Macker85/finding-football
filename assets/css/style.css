@@ -219,3 +219,7 @@ tr, th {
     text-transform: uppercase;
 }
 
+#contact-form {
+    clear: both;
+    background-image: url('../images/background-photo.jpeg') no-repeat center center;
+}
