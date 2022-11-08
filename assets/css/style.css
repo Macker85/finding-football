@@ -219,7 +219,33 @@ tr, th {
     text-transform: uppercase;
 }
 
+/* Contact us form */
+
 #contact-form {
     clear: both;
-    background-image: url('../images/background-photo.jpeg') no-repeat center center;
+    margin: 0 auto;
+    width: 400px;
+}
+
+.form-overview {
+    border: 1px solid #e3b448;
+    width: 500px;
+    padding: 10px;
+}
+
+.form-overview > ul {
+    list-style-type: none;
+}
+
+.contact-label {
+    padding: 10px 10px;
+    margin: 10px;
+    box-sizing: border-box;
+}
+
+.contact-input{
+    width: 100%;
+    padding: 10px 10px;
+    margin: 10px;
+    box-sizing: border-box;
 }

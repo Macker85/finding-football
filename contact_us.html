@@ -26,24 +26,25 @@
         </div>
     </header>
     <section id="contact-form">
-        <form action="https://formdump.codeinstitute.net" method="post" class="contact-form">
+        <form action="https://formdump.codeinstitute.net" method="post" class="form-overview">
             <ul>
               <li>
                 <label for="name" class="contact-label">Name</label>
-                <input type="text" id="name" name="user_name" class="contact-input">
+                <input type="text" id="name" name="user_name" class="contact-input" required>
               </li>
               <li>
                 <label for="email" class="contact-label">E-mail address</label>
-                <input type="email" id="email" name="user_email" class="contact-input">
+                <input type="email" id="email" name="user_email" class="contact-input" required>
               </li>
               <li>
                 <label for="phone" class="contact-label">Phone number</label>
-                <input type="tel" id="phone" name="phone-number" class="contact-input">
+                <input type="tel" id="phone" name="phone-number" class="contact-input" required>
               </li>
               <li>
-                <label for="msg">Message:</label>
-                <textarea id="msg" name="user_message"></textarea>
+                <label for="message" class="contact-label">Message</label>
+                <textarea id="msg" name="user_message" class="contact-input" required></textarea>
               </li>
+              <button>Submit</button>
             </ul>
           </form>
     </section>
