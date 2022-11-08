@@ -249,12 +249,13 @@ tr, th {
 }
 
 .submit-button {
+    font-size: 150%;
     width: 100%;
     background-color: #3a6b35;
     color: #e3b448;
     border: none;
     padding: 10px 10px;
-    margin: 4px 2px;
+    margin: 4px 1px;
     cursor: pointer;
 }
 
