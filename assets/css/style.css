@@ -249,3 +249,12 @@ tr, th {
     margin: 10px;
     box-sizing: border-box;
 }
+
+.submit-button {
+    background-color: #3a6b35;
+    color: #e3b448;
+    border: none;
+    padding: 10px 10px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
