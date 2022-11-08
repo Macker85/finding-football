@@ -53,18 +53,17 @@ h1, h2 {
     border-radius: 5px;
     font-weight: bold;
     transition: all 0.5s ease-in-out;
-    border: 1px solid #fff;
     margin: 0 10px;
 }
 
 #menu a:hover {
     border: 10;
-    box-shadow: 0 0 6px #e3b448;
+    box-shadow: 0 0 20px #e3b448;
 }
 
 .active {
     border: 10;
-    box-shadow: 0 0 6px #e3b448;
+    box-shadow: 0 0 10px #e3b448;
 }
 
 /* hero-image and intro*/
