@@ -120,6 +120,14 @@ h1, h2 {
     padding-top: 20px;
 }
 
+.click-here {
+    text-decoration: none;
+}
+
+.click-here:hover {
+    text-decoration: underline;
+}
+
 /* footer */
 
 .social-networks {
