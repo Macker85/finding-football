@@ -176,7 +176,6 @@ footer {
     width: 50%;
     float: left;
     padding-top: 20px;
-    background-color: aqua;
 }
 
 #right-half {
@@ -184,15 +183,32 @@ footer {
     width: 50%;
     float: right;
     padding-top: 20px;
-    background-color: blanchedalmond;
 }
 
 #game-1 > p {
     text-align: center;
     text-transform: uppercase;
+    padding: 10px;
 }
 
 #game-2 > p {
     text-align: center;
     text-transform: uppercase;
+    padding: 10px;
+}
+
+/* Where and When table layout */
+
+table {
+    width: 66%;
+    border-collapse: collapse;
+    margin: 17%;
+    background-color: #fff;
+    color: #3F4A3C;
+}
+
+tr, th {
+    border: 2px solid #e3b448;
+    text-align: left;
+    padding: 8px;
 }
