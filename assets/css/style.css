@@ -43,7 +43,7 @@ h1, h2 {
 #menu li {
     float: right;
     list-style-type: none;
-    margin-right: 30px;
+    margin-right: 20px;
 }
 
 #menu a {
@@ -256,4 +256,10 @@ tr, th {
     padding: 10px 10px;
     margin: 4px 2px;
     cursor: pointer;
+}
+
+/* Media queries */
+
+@media screen and (max-width: 1200px) {
+
 }
