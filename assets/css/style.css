@@ -186,3 +186,13 @@ footer {
     padding-top: 20px;
     background-color: blanchedalmond;
 }
+
+#game-1 > p {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#game-2 > p {
+    text-align: center;
+    text-transform: uppercase;
+}
