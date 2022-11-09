@@ -291,5 +291,8 @@ tr, th {
 }
 
 @media screen and (max-width: 750px) {
-    
+    #gmap_canvas {
+        width: 450px;
+        height: 350px;
+    }
 }
