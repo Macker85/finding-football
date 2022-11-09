@@ -120,6 +120,7 @@ h1, h2 {
 
 .click-here {
     text-decoration: none;
+    color: #3a6b35;
 }
 
 .click-here:hover {
@@ -185,6 +186,7 @@ footer {
     width: 50%;
     float: right;
     padding-top: 20px;
+    
 }
 
 #game-1 > h3 {
@@ -281,8 +283,13 @@ tr, th {
     #logo {
         text-align: center;
     }
+
+    #gmap_canvas {
+        width: 550px;
+        height: 450px;
+    }
 }
 
 @media screen and (max-width: 750px) {
-
+    
 }
