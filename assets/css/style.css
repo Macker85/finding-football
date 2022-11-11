@@ -389,4 +389,8 @@ tr, th {
         display: flex;
         align-items: center;
     }
+
+    #photos {
+        column-count: 2;
+    }
 }
