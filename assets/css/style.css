@@ -239,10 +239,6 @@ tr, th {
     clear: both;
 }
 
-.form-overview {
-    width: 66%px;
-}
-
 .form-overview > ul {
     list-style-type: none;
     padding: 15%;
@@ -392,5 +388,17 @@ tr, th {
 
     #photos {
         column-count: 2;
+    }
+
+    #contact-form {
+        width: 100%;
+    }
+
+    .form-overview > ul {
+        padding: 10% 2%;
+    }
+
+    .contact-input {
+        padding: 10px 0;
     }
 }
