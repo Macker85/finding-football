@@ -327,6 +327,10 @@ tr, th {
         justify-content: center;
     }
 
+    #menu li {
+        margin-right: auto;
+    }
+
     #game-1 {
         display: flex;
         flex-direction: column;
@@ -344,7 +348,8 @@ tr, th {
     }
 
     #right-half {
-        width: 100%;
+        display: flex;
+        align-items: center;
     }
     
     #gmap_canvas {
