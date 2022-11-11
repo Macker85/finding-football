@@ -312,7 +312,7 @@ tr, th {
     }
 
     .main-header {
-        height: 9rem;
+        height: auto;
     }
 }
 
@@ -355,14 +355,21 @@ tr, th {
 }
 
 @media screen and (max-width: 500px) {
+    #logo {
+        text-align: center;
+    }
+    
     #menu {
+        text-align: center;
+        line-height: 30px;
         display: flex;
-        flex-direction: column;
+        flex-direction: column-reverse;
     }
 
     #menu li {
+        padding: 2% 0;
         width: 100%;
-        height: 75px;
+        height: 30px;
     }
 
     .social-networks {
@@ -377,7 +384,6 @@ tr, th {
 
     #gmap_canvas {
         max-width: 320px;
-
     }
 
     #right-half {
