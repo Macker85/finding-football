@@ -355,8 +355,6 @@ tr, th {
     #gmap_canvas {
         width: 400px;
         height: 350px;
-        display: flex;
-        justify-content: left;
     }
 }
 
@@ -379,5 +377,16 @@ tr, th {
 
     #introduction, #more-information, #hero-image, #boots {
         width: 100%;
+    }
+
+    #gmap_canvas {
+        max-width: 320px;
+
+    }
+
+    #right-half {
+        width: 100%;
+        display: flex;
+        align-items: center;
     }
 }
