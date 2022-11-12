@@ -42,3 +42,9 @@ This page is to allow users to get in touch if they want to sign up for one of t
 
 # Feature to implement
 Links to shopping sites for recommended equipment. This would add another reason for visitation and potentially add commercial partnerships.
+
+# HTML validation
+No errors were returned when passing through the official W3C validator
+![alt text](../finding-football/docs/testing/W3-validator.png)
+
+
