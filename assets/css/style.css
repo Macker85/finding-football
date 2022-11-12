@@ -59,12 +59,12 @@ h1, h2 {
 }
 
 #menu a:hover {
-    border: 10;
+    border: 10px;
     box-shadow: 0 0 20px #e3b448;
 }
 
 .active {
-    border: 10;
+    border: 10px;
     box-shadow: 0 0 10px #e3b448;
 }
 
@@ -272,7 +272,7 @@ tr, th {
 }
 
 .submit-button:hover {
-    border: 10;
+    border: 10px;
     box-shadow: 0 0 20px #e3b448;
 }
 
