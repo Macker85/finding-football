@@ -45,6 +45,17 @@ Links to shopping sites for recommended equipment. This would add another reason
 
 # HTML validation
 No errors were returned when passing through the official W3C validator
-![alt text](../finding-football/docs/testing/W3-validator.png)
+
+### Index
+![alt text](../finding-football/docs/testing/index-validation.png)
+
+### Where and When
+![alt text](../finding-football/docs/testing/where_and_when-validation.png)
+
+### Gallery
+![alt text](../finding-football/docs/testing/gallery-validation.png)
+
+### Contact Us
+![alt text](../finding-football/docs/testing/contact_us-validation.png)
 
 
