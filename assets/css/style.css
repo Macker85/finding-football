@@ -178,14 +178,14 @@ footer {
     padding: 50px 50px 50px;
 }
 
-#left-half {
+#left-half-1, #left-half-2 {
     height: 500px;
     width: 50%;
     float: left;
     padding-top: 20px;
 }
 
-#right-half {
+#right-half-1, #right-half-2 {
     height: 500px;
     width: 50%;
     float: right;
@@ -226,7 +226,7 @@ tr, th {
     padding: 8px;
 }
 
-#heading {
+#heading-1, #heading-2 {
     background-color: #3F4A3C;
     color: #fff;
     text-transform: uppercase;
