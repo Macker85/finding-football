@@ -1,9 +1,9 @@
 
 # Finding Football
 
-Finding Football is a site for people to go that want to find a game of football or some extra players for your game. As straightforward as this sounds the benefits of being social, active and interacting with people with similar interests are very important and beneficial to your health and wellbeing.
+Finding Football is a site for people that want to find a game of football or some extra players for your game. As straightforward as this sounds the benefits of being social, active and interacting with people with similar interests are very important and beneficial to your health and wellbeing.
 
-Finding Football hopes to grow around the country getting more people active, improve the quality of games by ensuring you have the right players at the right times. 
+Finding Football hopes to grow around the country with more people adding games and reaching out for players with the hope of getting more people active, improve the quality of games by ensuring you have the right players at the right times. 
 
 
 
@@ -44,7 +44,7 @@ This page is to allow users to get in touch if they want to sign up for one of t
 Links to shopping sites for recommended equipment. This would add another reason for visitation and potentially add commercial partnerships.
 
 # HTML validation
-No errors were returned when passing through the official W3C validator
+The W3C HTML Validation Service was used to validate the HTML of the website. All errors were fixed.
 
 ### Index
 ![alt text](../finding-football/docs/testing/index-validation.png)
@@ -58,4 +58,8 @@ No errors were returned when passing through the official W3C validator
 ### Contact Us
 ![alt text](../finding-football/docs/testing/contact_us-validation.png)
 
+# CSS validation
+The W3C Jigsaw CSS Validation Service was used to validate the CSS of the website. All errors were fixed.
 
+### CSS
+![alt text](../finding-football/docs/testing/css-validation.png)
