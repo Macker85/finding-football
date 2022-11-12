@@ -193,6 +193,11 @@ footer {
     
 }
 
+#gmap_canvas {
+    height: 400px;
+    width: 500px;
+}
+
 #game-1 > h3 {
     text-align: center;
     text-transform: uppercase;
