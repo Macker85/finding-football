@@ -301,6 +301,13 @@ tr, th {
 
     #introduction {
         height: 200px;
+        width: 80%;
+        padding-bottom: 10%;
+    }
+
+    #hero-image, #more-information, #boots {
+        width: 80%;
+        padding: 8% 0;
     }
 
     #section2 {
@@ -383,9 +390,12 @@ tr, th {
         align-items: baseline;
     }
 
-    #introduction, #more-information, #hero-image, #boots {
+    #introduction, #more-information {
         width: 100%;
+        height: fit-content;
     }
+
+    
 
     #gmap_canvas-1, #gmap_canvas-2 {
         max-width: 320px;
