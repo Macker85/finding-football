@@ -46,24 +46,43 @@ The W3C HTML Validation Service was used to validate the HTML of the website. Al
 
 - <details><summary>Index</summary>
 
-    - ![alt text](../finding-football/docs/testing/index-validation.png)
+    ![alt text](../finding-football/docs/testing/index-validation.png)
 
 - <details><summary>Where and When</summary>
 
-    - ![alt text](../finding-football/docs/testing/where_and_when-validation.png)
+    ![alt text](../finding-football/docs/testing/where_and_when-validation.png)
 
 - <details><summary>Gallery</summary>
 
-    - ![alt text](../finding-football/docs/testing/gallery-validation.png)
+    ![alt text](../finding-football/docs/testing/gallery-validation.png)
 
 - <details><summary>Contact Us</summary>
 
-    - ![alt text](../finding-football/docs/testing/contact_us-validation.png)
+    ![alt text](../finding-football/docs/testing/contact_us-validation.png)
 
 # CSS validation
 The W3C Jigsaw CSS Validation Service was used to validate the CSS of the website. All errors were fixed.
 
 - <details><summary>CSS</summary>
 
-     - ![alt text](../finding-football/docs/testing/css-validation.png)
+     ![alt text](../finding-football/docs/testing/css-validation.png)
+
+# Wireframes
+
+- <details><summary>Index</summary>
+
+    ![alt text](../finding-football/docs/frameworks/index.png)
+
+- <details><summary>Where and When</summary>
+
+    ![alt text](../finding-football/docs/frameworks/where-and-when.png)
+
+- <details><summary>Gallery</summary>
+
+    ![alt text](../finding-football/docs/frameworks/gallery.png)
+
+- <details><summary>Contact Us</summary>    
+
+    ![alt text](../finding-football/docs/frameworks/contact-us.png)
+
 
