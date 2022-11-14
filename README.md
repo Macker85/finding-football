@@ -49,6 +49,9 @@ This page is to allow users to get in touch if they want to sign up for one of t
 # Feature to implement
 Links to shopping sites for recommended equipment. This would add another reason for visitation and potentially add commercial partnerships.
 
+# Testing
+All pages were tested on Google Chrome, Safari and Firefox
+
 # HTML validation
 The W3C HTML Validation Service was used to validate the HTML of the website. All errors were fixed.
 
@@ -94,3 +97,9 @@ The W3C Jigsaw CSS Validation Service was used to validate the CSS of the websit
     ![alt text](../finding-football/docs/frameworks/contact-us.png)
 
 
+# Deployment
+This website was deployed on GitHub by taking the following steps:
+    1. Go to Github repository and click on the Settings tab
+    2. Click on the pages link located on the left-hand side of the page under 'Code and automation'
+    3. Under the branch heading select 'main'
+    4. After a short wait refresh the page and you will see a message declaring "Your site is published at https://macker85.github.io/finding-football/index.html"
