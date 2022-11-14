@@ -5,9 +5,20 @@ Finding Football is a site for people that want to find a game of football or so
 
 Finding Football hopes to grow around the country with more people adding games and reaching out for players with the hope of getting more people active, improve the quality of games by ensuring you have the right players at the right times. 
 
+![alt text](../finding-football/docs/frameworks/Screenshot%202022-11-14%20at%2014.29.03.png)
+
 # Authors
 
 - [@Macker85](https://www.github.com/Macker85)
+
+# Design Choices
+
+The website was designed in a way to mirror other websites users might be accustomed to, having a defining Logo at the top of each page and a Navbar with a familiar layout to may other sites will help users navigate the page from their first visit. This is consistant across all 4 pages to ensure ease of use and support the user exploring the site in full. The same design thought was used in creting the footer, ensure consistancy and promote familiarity with the site.
+
+## Colour
+For the colour-wheel I chose an earthy pallet that will hopefully link the user with outdoors and being active. The colours were chosen with the use of Adobe Color which helped choose supporting colours.
+
+![alt text](../finding-football/docs/colors/Screenshot%202022-11-14%20at%2014.56.05.png)
 
 # Features
 
