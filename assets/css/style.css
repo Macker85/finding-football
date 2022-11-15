@@ -351,13 +351,8 @@ tr, th {
         align-items: center;
     }
 
-    #left-half {
+    #left-half-1, #left-half-2 {
         height: auto;
-    }
-
-    #right-half {
-        display: flex;
-        align-items: center;
     }
     
     #gmap_canvas-1, #gmap_canvas-2 {
@@ -395,13 +390,18 @@ tr, th {
         height: fit-content;
     }
 
-    
-
     #gmap_canvas-1, #gmap_canvas-2 {
         max-width: 320px;
     }
 
-    #right-half {
+    #right-half-1, #right-half-2 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #left-half-1, #left-half-2 {
+        height: auto;
         display: flex;
         justify-content: center;
         align-items: center;

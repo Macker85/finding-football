@@ -11,14 +11,18 @@ Finding Football hopes to grow around the country with more people adding games 
 
 - [@Macker85](https://www.github.com/Macker85)
 
+
 # Design Choices
 
 The website was designed in a way to mirror other websites users might be accustomed to, having a defining Logo at the top of each page and a Navbar with a familiar layout to may other sites will help users navigate the page from their first visit. This is consistant across all 4 pages to ensure ease of use and support the user exploring the site in full. The same design thought was used in creting the footer, ensure consistancy and promote familiarity with the site.
 
 ## Colour
-For the colour-wheel I chose an earthy pallet that will hopefully link the user with outdoors and being active. The colours were chosen with the use of Adobe Color which helped choose supporting colours.
+For the colour-wheel I chose an earthy pallet that will hopefully link the user with outdoors and being active. The colours were chosen with the use of Adobe Color which helped choosegit  supporting colours.
 
 ![alt text](../finding-football/docs/colors/Screenshot%202022-11-14%20at%2014.56.05.png)
+
+## Fonts
+Quicksand was used for H1 and H2 headings with Roboto used for all other text.
 
 # Features
 
@@ -110,7 +114,7 @@ The W3C Jigsaw CSS Validation Service was used to validate the CSS of the websit
 
 # Deployment
 This website was deployed on GitHub by taking the following steps:
-    1. Go to Github repository and click on the Settings tab
-    2. Click on the pages link located on the left-hand side of the page under 'Code and automation'
-    3. Under the branch heading select 'main'
-    4. After a short wait refresh the page and you will see a message declaring "Your site is published at https://macker85.github.io/finding-football/index.html"
+   - 1. Go to Github repository and click on the Settings tab
+   - 2. Click on the pages link located on the left-hand side of the page under 'Code and automation'
+   - 3. Under the branch heading select 'main'
+   - 4. After a short wait refresh the page and you will see a message declaring "Your site is published at https://macker85.github.io/finding-football/index.html"
