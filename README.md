@@ -11,6 +11,28 @@ Finding Football hopes to grow around the country with more people adding games 
 
 - [@Macker85](https://www.github.com/Macker85)
 
+# User Experience
+
+## Target Audience
+
+    - Users looking to find a game of football they can join
+    - Users can add games to the site looking for players
+    - Users looking to enjoy the social aspect of football by shaing photos and linking through social media networks
+
+## User Stories
+
+### First time users
+
+    1. Find a game of football I can join
+    2. See what times and dates are available that suit my agenda 
+    3. Add my game to the site to promote it for extra players
+
+### Repeat users
+
+    1. Look for other times, dates and locations of games if the user cannot make a usual game
+    2. Get photos of games or team-mates added to the site
+    3. Link in with others through social media
+    
 
 # Design Choices
 
@@ -131,7 +153,7 @@ Google Lighthouse in Developer Tools was used to test the performance of the web
 | ------------- | ------------- |
 | Footer not sticking to bottom of page  | Added CSS to pin it to bottom  |
 | Background image on Contact form not loading  | Had image loaded in wrong section |
-| Header being ignored  | Gave it height and width dimensions  |
+| Header being ignored  | Gave header size dimensions  |
 | Google Maps showing causing trouble with validator  | Take out transferred info from link to only necessary code  |
 | Home page link stays highlighted when visiting another page | Remove active attribute on non-active pages |
 
