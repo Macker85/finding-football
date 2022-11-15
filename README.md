@@ -124,6 +124,17 @@ Google Lighthouse in Developer Tools was used to test the performance of the web
     - ![alt text](../finding-football/docs/lighthouse/gallery-mobile.png)
     - ![alt text](../finding-football/docs/lighthouse/contact-us-mobile.png)
 
+
+# Bugs
+
+|    Bug   |   Fix   |
+| ------------- | ------------- |
+| Footer not sticking to bottom of page  | Added CSS to pin it to bottom  |
+| Background image on Contact form not loading  | Had image loaded in wrong section |
+| Header being ignored  | Gave it height and width dimensions  |
+| Google Maps showing causing trouble with validator  | Take out transferred info from link to only necessary code  |
+| Home page link stays highlighted when visiting another page | Remove active attribute on non-active pages |
+
 # Wireframes
 
 - <details><summary>Index</summary>
@@ -154,7 +165,6 @@ This website was deployed on GitHub by taking the following steps:
 # Credits
 
 In order of appearance
-    
 
     - Hero image on landing page - Pixabay
     - More information image - Istock
