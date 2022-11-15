@@ -110,6 +110,19 @@ The W3C Jigsaw CSS Validation Service was used to validate the CSS of the websit
 
 Google Lighthouse in Developer Tools was used to test the performance of the website.
 
+- <details><summary>Desktop</summary>
+
+    - ![alt text](../finding-football/docs/lighthouse/contact-us-desktop.png)
+    - ![alt text](../finding-football/docs/lighthouse/where-and-when-desktop.png)
+    - ![alt text](../finding-football/docs/lighthouse/gallery-desktop.png)
+    - ![alt text](../finding-football/docs/lighthouse/contact-us-desktop.png)
+
+- <details><summary>Mobile</summary>
+
+    - ![alt text](../finding-football/docs/lighthouse/home-mobile.png)
+    - ![alt text](../finding-football/docs/lighthouse/where-and-when-mobile.png)
+    - ![alt text](../finding-football/docs/lighthouse/gallery-mobile.png)
+    - ![alt text](../finding-football/docs/lighthouse/contact-us-mobile.png)
 
 # Wireframes
 
@@ -137,3 +150,20 @@ This website was deployed on GitHub by taking the following steps:
    - 2. Click on the pages link located on the left-hand side of the page under 'Code and automation'
    - 3. Under the branch heading select 'main'
    - 4. After a short wait refresh the page and you will see a message declaring "Your site is published at https://macker85.github.io/finding-football/index.html"
+
+# Credits
+
+In order of appearance
+    
+
+    - Hero image on landing page - Pixabay
+    - More information image - Istock
+    - Gallery image - "2 men jumping for a football" - Istock
+    - Gallery image - "3 men tackling for a football" - Istock
+    - Gallery image - "man in blue t-shirt about to kick a football" - Istock
+    - Gallery image - "4 men training with footballs" - Istock
+    - Gallery image - "5 men standing kicking a football to each other" - Istock
+    - Gallery image - "2 men jumping to head a football" - Istock
+    - Gallery image - "3 women tackling each other for a football" - Istock
+    - Gallery image - "man kicking a football with sunshining behind him" - Istock
+    - Background image for 'contact-us form - Istock
