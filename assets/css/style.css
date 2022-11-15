@@ -307,7 +307,7 @@ tr, th {
 
     #hero-image, #more-information, #boots {
         width: 80%;
-        padding: 8% 0;
+        padding: 10% 0;
     }
 
     #section2 {
@@ -328,7 +328,7 @@ tr, th {
     }
 }
 
-@media screen and (max-width: 750px) {
+@media screen and (max-width: 760px) {
     #menu {
         width: 100%;
         display: flex;
@@ -337,6 +337,11 @@ tr, th {
 
     #menu li {
         margin-right: auto;
+    }
+
+    #introduction, #more-information {
+        width: 100%;
+        height: fit-content;
     }
 
     #game-1 {
