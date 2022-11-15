@@ -141,7 +141,7 @@ Google Lighthouse in Developer Tools was used to test the performance of the web
 
 - <details><summary>Mobile</summary>
 
-    - ![alt text](../finding-football/docs/lighthouse/home-mobile.png)
+    - ![alt text](../finding-football/docs/lighthouse/index-mobile.png)
     - ![alt text](../finding-football/docs/lighthouse/where-and-when-mobile.png)
     - ![alt text](../finding-football/docs/lighthouse/gallery-mobile.png)
     - ![alt text](../finding-football/docs/lighthouse/contact-us-mobile.png)
