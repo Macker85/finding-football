@@ -186,6 +186,8 @@ This website was deployed on GitHub by taking the following steps:
 
 # Credits
 
+## Media
+
 In order of appearance
 
     - Hero image on landing page - Pixabay
@@ -199,3 +201,10 @@ In order of appearance
     - Gallery image - "3 women tackling each other for a football" - Istock
     - Gallery image - "man kicking a football with sunshining behind him" - Istock
     - Background image for 'contact-us form - Istock
+
+## Code
+
+Although no code was taken directly, I did get some help in the following
+
+    - Footer - done in co-ordination with the 'Love Running' project steps
+    - Form - https://www.w3schools.com/html/html_forms.asp - Layout guidlines used
