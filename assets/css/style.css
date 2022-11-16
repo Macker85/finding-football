@@ -319,7 +319,7 @@ tr, th {
     }
 
     #gmap_canvas-1, #gmap_canvas-2 {
-        width: 500px;
+        width: 75%;
         height: 450px;
         display: flex;
         justify-content: left;
