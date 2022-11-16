@@ -235,7 +235,30 @@ Google Lighthouse in Developer Tools was used to test the performance of the web
         - ![alt text](../finding-football/docs/user-testing/user3-1.png)
         - ![alt text](../finding-football/docs/user-testing/user3-2.png)
 
-    
+8. Link in with others through social media
+
+    | Feature | Action | Expected Result | Actual Result|
+    | ------------- | ------------- | ------------- | ------------- |
+    | Social media links | Scroll to the bottom of any page | Find working link to popular social media platforms that open in new tabs | Works as expected | 
+
+    - <details><summary>Screenshots</summary>
+
+        - ![alt text](../finding-football/docs/user-testing/user8-1.png)
+        - ![alt text](../finding-football/docs/user-testing/user8-2.png)
+        - ![alt text](../finding-football/docs/user-testing/user8-3.png)
+
+9. Get directions to the game locations
+
+    | Feature | Action | Expected Result | Actual Result|
+    | ------------- | ------------- | ------------- | ------------- |
+    | Map | Navigate to the Where and When page, scroll to the map your game will be played, click on the directions icon | A new tab will open with directions to the games location | Works as expected | 
+
+    - <details><summary>Screenshots</summary>
+
+        - ![alt text](../finding-football/docs/user-testing/user1-1.png)
+        - ![alt text](../finding-football/docs/user-testing/user1-2.png)
+        - ![alt text](../finding-football/docs/user-testing/user9-3.png)
+        - ![alt text](../finding-football/docs/user-testing/user9-4.png)
 
 # Bugs
 
