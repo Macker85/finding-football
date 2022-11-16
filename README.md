@@ -62,43 +62,43 @@ Quicksand was used for H1 and H2 headings with Roboto used for all other text.
 
 The logo featured in the top left of browser pages and centrally on mobile and table sizes. It is also prominent on all 4 pages so the user sees consistency throughout the site. While the navbar featured in the top right of browser pages and centrally on mobile and table sizes just under the logo, this will help users navigate the page easily without the use of the 'back' button.
 
-![alt text](docs/features/logo-navbar.png)
+![screen-shot of header](docs/features/logo-navbar.png)
 
 * ## Landing page
 
 This image and short intro are designed to provide clarity as to what you can expect from this site.
 
-![alt text](docs/features/landing-page.png)
+![sceenshot of landing page](docs/features/landing-page.png)
 
 * ## More info section and 'Click here' buttons
 
 This section is designed to elaborate more on the initial landing page, giving more detail as to what content is on the site. The 'Click here' buttons were added to improve the navigation of the site. Give the user the ability to explore more without having to scroll.
 
-![alt text](docs/features/more-info-section.png)
+![screenshot of more-info section](docs/features/more-info-section.png)
 
 * ## Footer
 
 The footer section houses the social media links that are designed to open in a new browser. The goal of these is link the site with popular traffic drivers and connect rhough social medias.
 
-![alt text](docs/features/footer.png)
+![screenshot of footer](docs/features/footer.png)
 
 * ## Timetable with maps
 
 This section will allow the user to see what games are available and at what times. With the map they can also get directions to these locations and routes available.
 
-![alt text](docs/features/timetable-map.png)
+![screenshot of timetable](docs/features/timetable-map.png)
 
 * ## Gallery
 
 The gallery is a way to provide interest for return visitation. The gallery value would also be to make the page more relatable and add encourage people to get in touch by putting a human element to the website.
 
-![alt text](docs/features/gal.png)
+![screenshot of gallery](docs/features/gal.png)
 
 * ## Contact field
 
 This page is to allow users to get in touch if they want to sign up for one of the games, add a game they would like listed or get in touch about getting photos added to the gallery.
 
-![alt text](docs/features/contact.png)
+![screenshot of contact form](docs/features/contact.png)
 
 # Feature to implement
 
@@ -114,19 +114,19 @@ The W3C HTML Validation Service was used to validate the HTML of the website. Al
 
 - <details><summary>Index</summary>
 
-    ![alt text](docs/testing/index-validation.png)
+    ![HTML validation success for index page](docs/testing/index-validation.png)
 
 - <details><summary>Where and When</summary>
 
-    ![alt text](docs/testing/where_and_when-validation.png)
+    ![HTML validation success for Where and When page](docs/testing/where_and_when-validation.png)
 
 - <details><summary>Gallery</summary>
 
-    ![alt text](docs/testing/gallery-validation.png)
+    ![HTML validation success for Gallery page](docs/testing/gallery-validation.png)
 
 - <details><summary>Contact Us</summary>
 
-    ![alt text](docs/testing/contact_us-validation.png)
+    ![HTML validation success for Contact Us page](docs/testing/contact_us-validation.png)
 
 # CSS validation
 
@@ -134,7 +134,7 @@ The W3C Jigsaw CSS Validation Service was used to validate the CSS of the websit
 
 - <details><summary>CSS</summary>
 
-     ![alt text](docs/testing/css-validation.png)
+     ![CSS validation success for website](docs/testing/css-validation.png)
 
 # Performance
 
@@ -142,17 +142,17 @@ Google Lighthouse in Developer Tools was used to test the performance of the web
 
 - <details><summary>Desktop</summary>
 
-    - ![alt text](docs/lighthouse/contact-us-desktop.png)
-    - ![alt text](docs/lighthouse/where-and-when-desktop.png)
-    - ![alt text](docs/lighthouse/gallery-desktop.png)
-    - ![alt text](docs/lighthouse/contact-us-desktop.png)
+    - ![Lighthouse desktop results for Index page](docs/lighthouse/index-desktop.png)
+    - ![Lighthouse desktop results for Where and When page](docs/lighthouse/where-and-when-desktop.png)
+    - ![Lighthouse desktop results for Gallery page](docs/lighthouse/gallery-desktop.png)
+    - ![Lighthouse desktop results for Contact Us page](docs/lighthouse/contact-us-desktop.png)
 
 - <details><summary>Mobile</summary>
 
-    - ![alt text](docs/lighthouse/index-mobile.png)
-    - ![alt text](docs/lighthouse/where-and-when-mobile.png)
-    - ![alt text](docs/lighthouse/gallery-mobile.png)
-    - ![alt text](docs/lighthouse/contact-us-mobile.png)
+    - ![Lighthouse mobile results for Index page](docs/lighthouse/index-mobile.png)
+    - ![Lighthouse mobile results for Where and When page](docs/lighthouse/where-and-when-mobile.png)
+    - ![Lighthouse mobile results for Gallery page](docs/lighthouse/gallery-mobile.png)
+    - ![Lighthouse mobile results for Contact Us page](docs/lighthouse/contact-us-mobile.png)
 
 # Testing user stories
 1. See what locations are available to join
@@ -163,9 +163,9 @@ Google Lighthouse in Developer Tools was used to test the performance of the web
 
     - <details><summary>Screenshots</summary>
 
-        - ![alt text](docs/user-testing/user1-1.png)
-        - ![alt text](docs/user-testing/user1-2.png)
-        - ![alt text](docs/user-testing/user1-3.png)
+        - ![directional step 1 to show user story 1](docs/user-testing/user1-1.png)
+        - ![directional step 2 to show user story 1](docs/user-testing/user1-2.png)
+        - ![directional step 3 to show user story 1](docs/user-testing/user1-3.png)
 
 2. Find times for games that fit my schedule
 
@@ -175,9 +175,9 @@ Google Lighthouse in Developer Tools was used to test the performance of the web
 
     - <details><summary>Screenshots</summary>
 
-        - ![alt text](docs/user-testing/user1-1.png)
-        - ![alt text](docs/user-testing/user1-2.png)
-        - ![alt text](docs/user-testing/user2.png)
+        - ![directional step 1 to show user story 2](docs/user-testing/user1-1.png)
+        - ![directional step 2 to show user story 2](docs/user-testing/user1-2.png)
+        - ![directional step 3 to show user story 2](docs/user-testing/user2.png)
 
 3. See what I can expect from these games, were I to sign up 
 
@@ -187,8 +187,8 @@ Google Lighthouse in Developer Tools was used to test the performance of the web
 
     - <details><summary>Screenshots</summary>
 
-        - ![alt text](docs/user-testing/user3-1.png)
-        - ![alt text](docs/user-testing/user3-2.png)
+        - ![directional step 1 to show user story 3](docs/user-testing/user3-1.png)
+        - ![directional step 2 to show user story 3](docs/user-testing/user3-2.png)
 
 4. Add my game to the site to promote it for extra players
 
@@ -198,8 +198,8 @@ Google Lighthouse in Developer Tools was used to test the performance of the web
 
     - <details><summary>Screenshots</summary>
 
-        - ![alt text](docs/user-testing/user4-1.png)
-        - ![alt text](docs/user-testing/user4-2.png)
+        - ![directional step 1 to show user story 4](docs/user-testing/user4-1.png)
+        - ![directional step 2 to show user story 4](docs/user-testing/user4-2.png)
 
 5. Look for other times, dates and locations of games if the user cannot make a usual game
 
@@ -209,9 +209,9 @@ Google Lighthouse in Developer Tools was used to test the performance of the web
 
     - <details><summary>Screenshots</summary>
 
-        - ![alt text](docs/user-testing/user1-1.png)
-        - ![alt text](docs/user-testing/user1-2.png)
-        - ![alt text](docs/user-testing/user2.png)
+        - ![directional step 1 to show user story 5](docs/user-testing/user1-1.png)
+        - ![directional step 2 to show user story 5](docs/user-testing/user1-2.png)
+        - ![directional step 3 to show user story 5](docs/user-testing/user2.png)
 
 6. Get photos of games or team-mates added to the site
 
@@ -221,8 +221,8 @@ Google Lighthouse in Developer Tools was used to test the performance of the web
 
     - <details><summary>Screenshots</summary>
 
-        - ![alt text](docs/user-testing/user4-1.png)
-        - ![alt text](docs/user-testing/user4-2.png)
+        - ![directional step 1 to show user story 6](docs/user-testing/user4-1.png)
+        - ![directional step 2 to show user story 6](docs/user-testing/user4-2.png)
 
 7. View photos of games I played in
 
@@ -232,8 +232,8 @@ Google Lighthouse in Developer Tools was used to test the performance of the web
 
     - <details><summary>Screenshots</summary>
 
-        - ![alt text](docs/user-testing/user3-1.png)
-        - ![alt text](docs/user-testing/user3-2.png)
+        - ![directional step 1 to show user story 7](docs/user-testing/user3-1.png)
+        - ![directional step 2 to show user story 7](docs/user-testing/user3-2.png)
 
 8. Link in with others through social media
 
@@ -243,9 +243,9 @@ Google Lighthouse in Developer Tools was used to test the performance of the web
 
     - <details><summary>Screenshots</summary>
 
-        - ![alt text](docs/user-testing/user8-1.png)
-        - ![alt text](docs/user-testing/user8-2.png)
-        - ![alt text](docs/user-testing/user8-3.png)
+        - ![directional step 1 to show user story 8](docs/user-testing/user8-1.png)
+        - ![directional step 2 to show user story 8](docs/user-testing/user8-2.png)
+        - ![directional step 3 to show user story 8](docs/user-testing/user8-3.png)
 
 9. Get directions to the game locations
 
@@ -255,10 +255,10 @@ Google Lighthouse in Developer Tools was used to test the performance of the web
 
     - <details><summary>Screenshots</summary>
 
-        - ![alt text](docs/user-testing/user1-1.png)
-        - ![alt text](docs/user-testing/user1-2.png)
-        - ![alt text](docs/user-testing/user9-3.png)
-        - ![alt text](docs/user-testing/user9-4.png)
+        - ![directional step 1 to show user story 9](docs/user-testing/user1-1.png)
+        - ![directional step 2 to show user story 9](docs/user-testing/user1-2.png)
+        - ![directional step 3 to show user story 9](docs/user-testing/user9-3.png)
+        - ![directional step 4 to show user story 9](docs/user-testing/user9-4.png)
 
 10. People to be able to get in touch
 
@@ -268,8 +268,8 @@ Google Lighthouse in Developer Tools was used to test the performance of the web
 
     - <details><summary>Screenshots</summary>
 
-        - ![alt text](docs/user-testing/user4-1.png)
-        - ![alt text](docs/user-testing/user4-2.png)
+        - ![directional step 1 to show user story 10](docs/user-testing/user4-1.png)
+        - ![directional step 2 to show user story 10](docs/user-testing/user4-2.png)
 
 11. To grow the community through social media, increasing the site traffic
 
@@ -279,9 +279,9 @@ Google Lighthouse in Developer Tools was used to test the performance of the web
 
     - <details><summary>Screenshots</summary>
 
-        - ![alt text](docs/user-testing/user8-1.png)
-        - ![alt text](docs/user-testing/user8-2.png)
-        - ![alt text](docs/user-testing/user8-3.png)
+        - ![directional step 1 to show user story 11](docs/user-testing/user8-1.png)
+        - ![directional step 2 to show user story 11](docs/user-testing/user8-2.png)
+        - ![directional step 3 to show user story 11](docs/user-testing/user8-3.png)
 
 # Bugs
 
@@ -297,19 +297,19 @@ Google Lighthouse in Developer Tools was used to test the performance of the web
 
 - <details><summary>Index</summary>
 
-    ![alt text](docs/frameworks/index.png)
+    ![wireframe image of index page](docs/frameworks/index.png)
 
 - <details><summary>Where and When</summary>
 
-    ![alt text](docs/frameworks/where-and-when.png)
+    ![wireframe image of where and when page](docs/frameworks/where-and-when.png)
 
 - <details><summary>Gallery</summary>
 
-    ![alt text](docs/frameworks/gallery.png)
+    ![wireframe image of gallery page](docs/frameworks/gallery.png)
 
 - <details><summary>Contact Us</summary>    
 
-    ![alt text](docs/frameworks/contact-us.png)
+    ![wireframe image of contact page](docs/frameworks/contact-us.png)
 
 
 # Deployment
