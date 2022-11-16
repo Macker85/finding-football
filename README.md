@@ -17,7 +17,7 @@ Finding Football hopes to grow around the country with more people adding games 
 
     - Users looking to find a game of football they can join in an area close to them
     - Users can add games to the site looking for players
-    - Users looking to enjoy the social aspect of football by shaing photos and linking through social media networks
+    - Users looking to enjoy the social aspect of football by sharing photos and linking through social media networks
 
 ## User Stories
 
@@ -44,11 +44,11 @@ Finding Football hopes to grow around the country with more people adding games 
 
 # Design Choices
 
-The website was designed in a way to mirror other websites users might be accustomed to, having a defining Logo at the top of each page and a Navbar with a familiar layout to may other sites will help users navigate the page from their first visit. This is consistant across all 4 pages to ensure ease of use and support the user exploring the site in full. The same design thought was used in creting the footer, ensure consistancy and promote familiarity with the site.
+The website was designed in a way to mirror other websites users might be accustomed to, having a defining Logo at the top of each page and a Navbar with a familiar layout to may other sites will help users navigate the page from their first visit. This is consistent across all 4 pages to ensure ease of use and support the user exploring the site in full. The same design thought was used in creating the footer, ensure consistency and promote familiarity with the site.
 
 ## Colour
 
-For the colour-wheel I chose an earthy pallet that will hopefully link the user with outdoors and being active. The colours were chosen with the use of Adobe Color which helped choosegit  supporting colours.
+For the colour-wheel I chose an earthy pallet that will hopefully link the user with outdoors and being active. The colours were chosen with the use of Adobe Color which helped choosing supporting colours.
 
 ![alt text](../finding-football/docs/colors/Screenshot%202022-11-14%20at%2014.56.05.png)
 
@@ -60,7 +60,7 @@ Quicksand was used for H1 and H2 headings with Roboto used for all other text.
 
 * ## Logo and Navigation Bar
 
-The logo featured in the top left of brower pages and centrally on mobile and table sizes. It is also prominent on all 4 pages so the user sees consistancy throughout the site. while the navbar Featured in the top right of brower pages and centrally on mobile and table sizes just under the logo, this will help users navigate the page easily without the use of the 'back' button.
+The logo featured in the top left of browser pages and centrally on mobile and table sizes. It is also prominent on all 4 pages so the user sees consistency throughout the site. While the navbar featured in the top right of browser pages and centrally on mobile and table sizes just under the logo, this will help users navigate the page easily without the use of the 'back' button.
 
 ![alt text](../finding-football/docs/features/logo-navbar.png)
 
@@ -84,7 +84,7 @@ The footer section houses the social media links that are designed to open in a 
 
 * ## Timetable with maps
 
-This section will allow the user to see what games are available and at what times. With the map they can also get directions to these locations and routes availale.
+This section will allow the user to see what games are available and at what times. With the map they can also get directions to these locations and routes available.
 
 ![alt text](../finding-football/docs/features/timetable-map.png)
 
