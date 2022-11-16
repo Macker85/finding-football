@@ -260,6 +260,29 @@ Google Lighthouse in Developer Tools was used to test the performance of the web
         - ![alt text](../finding-football/docs/user-testing/user9-3.png)
         - ![alt text](../finding-football/docs/user-testing/user9-4.png)
 
+10. People to be able to get in touch
+
+    | Feature | Action | Expected Result | Actual Result|
+    | ------------- | ------------- | ------------- | ------------- |
+    | Contact form | Navigate to Contact Us page, add information to form and submit | Information will be submitted to site owner | Works as expected | 
+
+    - <details><summary>Screenshots</summary>
+
+        - ![alt text](../finding-football/docs/user-testing/user4-1.png)
+        - ![alt text](../finding-football/docs/user-testing/user4-2.png)
+
+11. To grow the community through social media, increasing the site traffic
+
+    | Feature | Action | Expected Result | Actual Result|
+    | ------------- | ------------- | ------------- | ------------- |
+    | Social media links | Scroll to the bottom of any page | Find working link to popular social media platforms that open in new tabs | Works as expected | 
+
+    - <details><summary>Screenshots</summary>
+
+        - ![alt text](../finding-football/docs/user-testing/user8-1.png)
+        - ![alt text](../finding-football/docs/user-testing/user8-2.png)
+        - ![alt text](../finding-football/docs/user-testing/user8-3.png)
+
 # Bugs
 
 |    Bug   |   Fix   |
