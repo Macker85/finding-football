@@ -23,9 +23,9 @@ Finding Football hopes to grow around the country with more people adding games 
 
 ### As a first time users I want to:
 
-    1. Find a game of football I can join in my area
+    1. See what locations are available to join
     2. Find times for games that fit my schedule
-    3. See what times and dates are available that suit my agenda 
+    3. See what I can expect from these games, were I to sign up
     4. Add my game to the site to promote it for extra players
 
 ### As a repeat users I want to:
@@ -155,13 +155,14 @@ Google Lighthouse in Developer Tools was used to test the performance of the web
     - ![alt text](../finding-football/docs/lighthouse/contact-us-mobile.png)
 
 # Testing user stories
-1. Find a game of football I can join in my area
+1. See what locations are available to join
 
     | Feature | Action | Expected Result | Actual Result|
     | ------------- | ------------- | ------------- | ------------- |
-    | map | Navigate to the Where and When page, scroll to the map that best suits the user | Locate a map showing available locations with directions available | Works aas expected | 
+    | Map | Navigate to the Where and When page, scroll to the map that best suits the user | Locate a map showing available locations with directions available | Works as expected | 
 
-    - <details><summary>User 1</summary>
+    - <details><summary>Screenshots</summary>
+
         - ![alt text](../finding-football/docs/user-testing/user1-1.png)
         - ![alt text](../finding-football/docs/user-testing/user1-2.png)
         - ![alt text](../finding-football/docs/user-testing/user1-3.png)
@@ -170,15 +171,71 @@ Google Lighthouse in Developer Tools was used to test the performance of the web
 
     | Feature | Action | Expected Result | Actual Result|
     | ------------- | ------------- | ------------- | ------------- |
-    | timetable | Navigate to the Where and When page, scroll to the location your are hoping to play, review times and days| Locate a timetable showing available times and days | Works aas expected | 
+    | Timetable | Navigate to the Where and When page, scroll to the location your are hoping to play, review times and days| Locate a timetable showing available times and days | Works as expected | 
 
-    - <details><summary>User 1</summary>
+    - <details><summary>Screenshots</summary>
+
         - ![alt text](../finding-football/docs/user-testing/user1-1.png)
         - ![alt text](../finding-football/docs/user-testing/user1-2.png)
         - ![alt text](../finding-football/docs/user-testing/user2.png)
 
-3. See what times and dates are available that suit my agenda 
+3. See what I can expect from these games, were I to sign up 
+
+    | Feature | Action | Expected Result | Actual Result|
+    | ------------- | ------------- | ------------- | ------------- |
+    | Gallery | Navigate to the Gallery page | See images of people being active and having fun | Works as expected | 
+
+    - <details><summary>Screenshots</summary>
+
+        - ![alt text](../finding-football/docs/user-testing/user3-1.png)
+        - ![alt text](../finding-football/docs/user-testing/user3-2.png)
+
 4. Add my game to the site to promote it for extra players
+
+    | Feature | Action | Expected Result | Actual Result|
+    | ------------- | ------------- | ------------- | ------------- |
+    | Contact form | Navigate to Contact Us page, add information to form and submit | Information will be submitted to site owner to add | Works as expected | 
+
+    - <details><summary>Screenshots</summary>
+
+        - ![alt text](../finding-football/docs/user-testing/user4-1.png)
+        - ![alt text](../finding-football/docs/user-testing/user4-2.png)
+
+5. Look for other times, dates and locations of games if the user cannot make a usual game
+
+    | Feature | Action | Expected Result | Actual Result|
+    | ------------- | ------------- | ------------- | ------------- |
+    | Timetable | Navigate to the Where and When page, scroll to the location your are hoping to play, review times and days | Locate a timetable showing available times and days | Works as expected | 
+
+    - <details><summary>Screenshots</summary>
+
+        - ![alt text](../finding-football/docs/user-testing/user1-1.png)
+        - ![alt text](../finding-football/docs/user-testing/user1-2.png)
+        - ![alt text](../finding-football/docs/user-testing/user2.png)
+
+6. Get photos of games or team-mates added to the site
+
+    | Feature | Action | Expected Result | Actual Result|
+    | ------------- | ------------- | ------------- | ------------- |
+    | Contact form | Navigate to Contact Us page, add information to form and submit | Information will be submitted to site owner to add | Works as expected |  
+
+    - <details><summary>Screenshots</summary>
+
+        - ![alt text](../finding-football/docs/user-testing/user4-1.png)
+        - ![alt text](../finding-football/docs/user-testing/user4-2.png)
+
+7. View photos of games I played in
+
+    | Feature | Action | Expected Result | Actual Result|
+    | ------------- | ------------- | ------------- | ------------- |
+    | Gallery | Navigate to the Gallery page | See images of my games that have submitted via the contact form | Works as expected | 
+
+    - <details><summary>Screenshots</summary>
+
+        - ![alt text](../finding-football/docs/user-testing/user3-1.png)
+        - ![alt text](../finding-football/docs/user-testing/user3-2.png)
+
+    
 
 # Bugs
 
