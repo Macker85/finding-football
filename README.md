@@ -15,23 +15,31 @@ Finding Football hopes to grow around the country with more people adding games 
 
 ## Target Audience
 
-    - Users looking to find a game of football they can join
+    - Users looking to find a game of football they can join in an area close to them
     - Users can add games to the site looking for players
     - Users looking to enjoy the social aspect of football by shaing photos and linking through social media networks
 
 ## User Stories
 
-### First time users
+### As a first time users I want to:
 
-    1. Find a game of football I can join
-    2. See what times and dates are available that suit my agenda 
-    3. Add my game to the site to promote it for extra players
+    1. Find a game of football I can join in my area
+    2. Find times for games that fit my schedule
+    3. See what times and dates are available that suit my agenda 
+    4. Add my game to the site to promote it for extra players
 
-### Repeat users
+### As a repeat users I want to:
 
-    1. Look for other times, dates and locations of games if the user cannot make a usual game
-    2. Get photos of games or team-mates added to the site
-    3. Link in with others through social media
+    5. Look for other times, dates and locations of games if the user cannot make a usual game
+    6. Get photos of games or team-mates added to the site
+    7. View photos of games I played in
+    8. Link in with others through social media
+    9. Get directions to the game locations
+
+### As the site owner I want:
+
+    10. People to be able to get in touch
+    11. To grow the community through social media, increasing the site traffic
     
 
 # Design Choices
@@ -146,6 +154,31 @@ Google Lighthouse in Developer Tools was used to test the performance of the web
     - ![alt text](../finding-football/docs/lighthouse/gallery-mobile.png)
     - ![alt text](../finding-football/docs/lighthouse/contact-us-mobile.png)
 
+# Testing user stories
+1. Find a game of football I can join in my area
+
+    | Feature | Action | Expected Result | Actual Result|
+    | ------------- | ------------- | ------------- | ------------- |
+    | map | Navigate to the Where and When page, scroll to the map that best suits the user | Locate a map showing available locations with directions available | Works aas expected | 
+
+    - <details><summary>User 1</summary>
+        - ![alt text](../finding-football/docs/user-testing/user1-1.png)
+        - ![alt text](../finding-football/docs/user-testing/user1-2.png)
+        - ![alt text](../finding-football/docs/user-testing/user1-3.png)
+
+2. Find times for games that fit my schedule
+
+    | Feature | Action | Expected Result | Actual Result|
+    | ------------- | ------------- | ------------- | ------------- |
+    | timetable | Navigate to the Where and When page, scroll to the location your are hoping to play, review times and days| Locate a timetable showing available times and days | Works aas expected | 
+
+    - <details><summary>User 1</summary>
+        - ![alt text](../finding-football/docs/user-testing/user1-1.png)
+        - ![alt text](../finding-football/docs/user-testing/user1-2.png)
+        - ![alt text](../finding-football/docs/user-testing/user2.png)
+
+3. See what times and dates are available that suit my agenda 
+4. Add my game to the site to promote it for extra players
 
 # Bugs
 
@@ -206,5 +239,5 @@ In order of appearance
 
 Although no code was taken directly, I did get some help in the following
 
-    - Footer - done in co-ordination with the 'Love Running' project steps
-    - Form - https://www.w3schools.com/html/html_forms.asp - Layout guidlines used
+    - Footer - Done in co-ordination with the 'Love Running' project steps
+    - Form - https://www.w3schools.com/html/html_forms.asp - Layout guidelines used
