@@ -315,10 +315,23 @@ Google Lighthouse in Developer Tools was used to test the performance of the web
 # Deployment
 
 This website was deployed on GitHub by taking the following steps:
-   - 1. Go to Github repository and click on the Settings tab
-   - 2. Click on the pages link located on the left-hand side of the page under 'Code and automation'
-   - 3. Under the branch heading select 'main'
-   - 4. After a short wait refresh the page and you will see a message declaring "Your site is published at https://macker85.github.io/finding-football/index.html"
+- 1. Go to Github repository and click on the Settings tab
+- 2. Click on the pages link located on the left-hand side of the page under 'Code and automation'
+- 3. Under the branch heading select 'main'
+- 4. After a short wait refresh the page and you will see a message declaring "Your site is published at https://macker85.github.io/finding-football/index.html"
+
+You can for fork the repository by following these steps:
+- 1. Go to the GitHub repository
+- 2. Click on Fork button in the top right side of the page
+    
+You can clone the repository by following these steps:
+- 1. Go to the GitHub repository
+- 2. Locate the Code button above the list of files and click it
+- 3. Select your preferred method to clone between using HTTPS, SSH, or Github CLI then click the copy button to copy the URL to your clipboard
+- 4. Open Git Bash
+- 5. Change the current working directory to the one where you want the cloned directory
+- 6. Type git clone and paste the URL copied in step 3 from the clipboard
+- 7. Press Enter to create your local clone
 
 # Credits
 
