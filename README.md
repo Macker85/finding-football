@@ -114,47 +114,41 @@ All pages were tested on Google Chrome, Safari and Firefox
 
 The W3C HTML Validation Service was used to validate the HTML of the website. All errors were fixed.
 
-- <details><summary>Index</summary>
+Index
+![HTML validation success for index page](docs/testing/index-validation.png)
 
-    ![HTML validation success for index page](docs/testing/index-validation.png)
+Where and When
+![HTML validation success for Where and When page](docs/testing/where_and_when-validation.png)
 
-- <details><summary>Where and When</summary>
+Gallery
+![HTML validation success for Gallery page](docs/testing/gallery-validation.png)
 
-    ![HTML validation success for Where and When page](docs/testing/where_and_when-validation.png)
-
-- <details><summary>Gallery</summary>
-
-    ![HTML validation success for Gallery page](docs/testing/gallery-validation.png)
-
-- <details><summary>Contact Us</summary>
-
-    ![HTML validation success for Contact Us page](docs/testing/contact_us-validation.png)
+Contact Us
+![HTML validation success for Contact Us page](docs/testing/contact_us-validation.png)
 
 # CSS validation
 
 The W3C Jigsaw CSS Validation Service was used to validate the CSS of the website. All errors were fixed.
 
-- <details><summary>CSS</summary>
-
-     ![CSS validation success for website](docs/testing/css-validation.png)
+CSS
+![CSS validation success for website](docs/testing/css-validation.png)
 
 # Performance
 
 Google Lighthouse in Developer Tools was used to test the performance of the website.
 
-- <details><summary>Desktop</summary>
+Desktop
 
-    - ![Lighthouse desktop results for Index page](docs/lighthouse/index-desktop.png)
-    - ![Lighthouse desktop results for Where and When page](docs/lighthouse/where-and-when-desktop.png)
-    - ![Lighthouse desktop results for Gallery page](docs/lighthouse/gallery-desktop.png)
-    - ![Lighthouse desktop results for Contact Us page](docs/lighthouse/contact-us-desktop.png)
+![Lighthouse desktop results for Index page](docs/lighthouse/index-desktop.png)
+![Lighthouse desktop results for Where and When page](docs/lighthouse/where-and-when-desktop.png)
+![Lighthouse desktop results for Gallery page](docs/lighthouse/gallery-desktop.png)
+![Lighthouse desktop results for Contact Us page](docs/lighthouse/contact-us-desktop.png)
 
-- <details><summary>Mobile</summary>
-
-    - ![Lighthouse mobile results for Index page](docs/lighthouse/index-mobile.png)
-    - ![Lighthouse mobile results for Where and When page](docs/lighthouse/where-and-when-mobile.png)
-    - ![Lighthouse mobile results for Gallery page](docs/lighthouse/gallery-mobile.png)
-    - ![Lighthouse mobile results for Contact Us page](docs/lighthouse/contact-us-mobile.png)
+Mobile
+![Lighthouse mobile results for Index page](docs/lighthouse/index-mobile.png)
+![Lighthouse mobile results for Where and When page](docs/lighthouse/where-and-when-mobile.png)
+![Lighthouse mobile results for Gallery page](docs/lighthouse/gallery-mobile.png)
+![Lighthouse mobile results for Contact Us page](docs/lighthouse/contact-us-mobile.png)
 
 # Testing user stories
 1. See what locations are available to join
@@ -163,11 +157,10 @@ Google Lighthouse in Developer Tools was used to test the performance of the web
     | ------------- | ------------- | ------------- | ------------- |
     | Map | Navigate to the Where and When page, scroll to the map that best suits the user | Locate a map showing available locations with directions available | Works as expected | 
 
-    - <details><summary>Screenshots</summary>
-
-        - ![directional step 1 to show user story 1](docs/user-testing/user1-1.png)
-        - ![directional step 2 to show user story 1](docs/user-testing/user1-2.png)
-        - ![directional step 3 to show user story 1](docs/user-testing/user1-3.png)
+Screenshots
+![directional step 1 to show user story 1](docs/user-testing/user1-1.png)
+![directional step 2 to show user story 1](docs/user-testing/user1-2.png)
+![directional step 3 to show user story 1](docs/user-testing/user1-3.png)
 
 2. Find times for games that fit my schedule
 
@@ -175,11 +168,10 @@ Google Lighthouse in Developer Tools was used to test the performance of the web
     | ------------- | ------------- | ------------- | ------------- |
     | Timetable | Navigate to the Where and When page, scroll to the location your are hoping to play, review times and days| Locate a timetable showing available times and days | Works as expected | 
 
-    - <details><summary>Screenshots</summary>
-
-        - ![directional step 1 to show user story 2](docs/user-testing/user1-1.png)
-        - ![directional step 2 to show user story 2](docs/user-testing/user1-2.png)
-        - ![directional step 3 to show user story 2](docs/user-testing/user2.png)
+Screenshots
+![directional step 1 to show user story 2](docs/user-testing/user1-1.png)
+¡[directional step 2 to show user story 2](docs/user-testing/user1-2.png)
+¡[directional step 3 to show user story 2](docs/user-testing/user2.png)
 
 3. See what I can expect from these games, were I to sign up 
 
@@ -187,10 +179,9 @@ Google Lighthouse in Developer Tools was used to test the performance of the web
     | ------------- | ------------- | ------------- | ------------- |
     | Gallery | Navigate to the Gallery page | See images of people being active and having fun | Works as expected | 
 
-    - <details><summary>Screenshots</summary>
-
-        - ![directional step 1 to show user story 3](docs/user-testing/user3-1.png)
-        - ![directional step 2 to show user story 3](docs/user-testing/user3-2.png)
+Screenshots
+![directional step 1 to show user story 3](docs/user-testing/user3-1.png)
+![directional step 2 to show user story 3](docs/user-testing/user3-2.png)
 
 4. Add my game to the site to promote it for extra players
 
@@ -198,10 +189,9 @@ Google Lighthouse in Developer Tools was used to test the performance of the web
     | ------------- | ------------- | ------------- | ------------- |
     | Contact form | Navigate to Contact Us page, add information to form and submit | Information will be submitted to site owner to add | Works as expected | 
 
-    - <details><summary>Screenshots</summary>
-
-        - ![directional step 1 to show user story 4](docs/user-testing/user4-1.png)
-        - ![directional step 2 to show user story 4](docs/user-testing/user4-2.png)
+Screenshots
+![directional step 1 to show user story 4](docs/user-testing/user4-1.png)
+![directional step 2 to show user story 4](docs/user-testing/user4-2.png)
 
 5. Look for other times, dates and locations of games if the user cannot make a usual game
 
@@ -209,11 +199,10 @@ Google Lighthouse in Developer Tools was used to test the performance of the web
     | ------------- | ------------- | ------------- | ------------- |
     | Timetable | Navigate to the Where and When page, scroll to the location your are hoping to play, review times and days | Locate a timetable showing available times and days | Works as expected | 
 
-    - <details><summary>Screenshots</summary>
-
-        - ![directional step 1 to show user story 5](docs/user-testing/user1-1.png)
-        - ![directional step 2 to show user story 5](docs/user-testing/user1-2.png)
-        - ![directional step 3 to show user story 5](docs/user-testing/user2.png)
+Screenshots
+![directional step 1 to show user story 5](docs/user-testing/user1-1.png)
+![directional step 2 to show user story 5](docs/user-testing/user1-2.png)
+![directional step 3 to show user story 5](docs/user-testing/user2.png)
 
 6. Get photos of games or team-mates added to the site
 
@@ -221,10 +210,9 @@ Google Lighthouse in Developer Tools was used to test the performance of the web
     | ------------- | ------------- | ------------- | ------------- |
     | Contact form | Navigate to Contact Us page, add information to form and submit | Information will be submitted to site owner to add | Works as expected |  
 
-    - <details><summary>Screenshots</summary>
-
-        - ![directional step 1 to show user story 6](docs/user-testing/user4-1.png)
-        - ![directional step 2 to show user story 6](docs/user-testing/user4-2.png)
+Screenshots
+![directional step 1 to show user story 6](docs/user-testing/user4-1.png)
+![directional step 2 to show user story 6](docs/user-testing/user4-2.png)
 
 7. View photos of games I played in
 
@@ -232,10 +220,9 @@ Google Lighthouse in Developer Tools was used to test the performance of the web
     | ------------- | ------------- | ------------- | ------------- |
     | Gallery | Navigate to the Gallery page | See images of my games that have submitted via the contact form | Works as expected | 
 
-    - <details><summary>Screenshots</summary>
-
-        - ![directional step 1 to show user story 7](docs/user-testing/user3-1.png)
-        - ![directional step 2 to show user story 7](docs/user-testing/user3-2.png)
+Screenshots
+![directional step 1 to show user story 7](docs/user-testing/user3-1.png)
+![directional step 2 to show user story 7](docs/user-testing/user3-2.png)
 
 8. Link in with others through social media
 
@@ -243,11 +230,10 @@ Google Lighthouse in Developer Tools was used to test the performance of the web
     | ------------- | ------------- | ------------- | ------------- |
     | Social media links | Scroll to the bottom of any page | Find working link to popular social media platforms that open in new tabs | Works as expected | 
 
-    - <details><summary>Screenshots</summary>
-
-        - ![directional step 1 to show user story 8](docs/user-testing/user8-1.png)
-        - ![directional step 2 to show user story 8](docs/user-testing/user8-2.png)
-        - ![directional step 3 to show user story 8](docs/user-testing/user8-3.png)
+Screenshots
+![directional step 1 to show user story 8](docs/user-testing/user8-1.png)
+![directional step 2 to show user story 8](docs/user-testing/user8-2.png)
+![directional step 3 to show user story 8](docs/user-testing/user8-3.png)
 
 9. Get directions to the game locations
 
@@ -255,12 +241,11 @@ Google Lighthouse in Developer Tools was used to test the performance of the web
     | ------------- | ------------- | ------------- | ------------- |
     | Map | Navigate to the Where and When page, scroll to the map your game will be played, click on the directions icon | A new tab will open with directions to the games location | Works as expected | 
 
-    - <details><summary>Screenshots</summary>
-
-        - ![directional step 1 to show user story 9](docs/user-testing/user1-1.png)
-        - ![directional step 2 to show user story 9](docs/user-testing/user1-2.png)
-        - ![directional step 3 to show user story 9](docs/user-testing/user9-3.png)
-        - ![directional step 4 to show user story 9](docs/user-testing/user9-4.png)
+Screenshots
+![directional step 1 to show user story 9](docs/user-testing/user1-1.png)
+![directional step 2 to show user story 9](docs/user-testing/user1-2.png)
+![directional step 3 to show user story 9](docs/user-testing/user9-3.png)
+![directional step 4 to show user story 9](docs/user-testing/user9-4.png)
 
 10. People to be able to get in touch
 
@@ -268,10 +253,9 @@ Google Lighthouse in Developer Tools was used to test the performance of the web
     | ------------- | ------------- | ------------- | ------------- |
     | Contact form | Navigate to Contact Us page, add information to form and submit | Information will be submitted to site owner | Works as expected | 
 
-    - <details><summary>Screenshots</summary>
-
-        - ![directional step 1 to show user story 10](docs/user-testing/user4-1.png)
-        - ![directional step 2 to show user story 10](docs/user-testing/user4-2.png)
+Screenshots
+![directional step 1 to show user story 10](docs/user-testing/user4-1.png)
+![directional step 2 to show user story 10](docs/user-testing/user4-2.png)
 
 11. To grow the community through social media, increasing the site traffic
 
@@ -279,11 +263,10 @@ Google Lighthouse in Developer Tools was used to test the performance of the web
     | ------------- | ------------- | ------------- | ------------- |
     | Social media links | Scroll to the bottom of any page | Find working link to popular social media platforms that open in new tabs | Works as expected | 
 
-    - <details><summary>Screenshots</summary>
-
-        - ![directional step 1 to show user story 11](docs/user-testing/user8-1.png)
-        - ![directional step 2 to show user story 11](docs/user-testing/user8-2.png)
-        - ![directional step 3 to show user story 11](docs/user-testing/user8-3.png)
+Screenshots
+![directional step 1 to show user story 11](docs/user-testing/user8-1.png)
+![directional step 2 to show user story 11](docs/user-testing/user8-2.png)
+![directional step 3 to show user story 11](docs/user-testing/user8-3.png)
 
 # Bugs
 
@@ -297,21 +280,17 @@ Google Lighthouse in Developer Tools was used to test the performance of the web
 
 # Wireframes
 
-- <details><summary>Index</summary>
+Index
+![wireframe image of index page](docs/frameworks/index.png)
 
-    ![wireframe image of index page](docs/frameworks/index.png)
+Where and When
+![wireframe image of where and when page](docs/frameworks/where-and-when.png)
 
-- <details><summary>Where and When</summary>
+Gallery
+![wireframe image of gallery page](docs/frameworks/gallery.png)
 
-    ![wireframe image of where and when page](docs/frameworks/where-and-when.png)
-
-- <details><summary>Gallery</summary>
-
-    ![wireframe image of gallery page](docs/frameworks/gallery.png)
-
-- <details><summary>Contact Us</summary>    
-
-    ![wireframe image of contact page](docs/frameworks/contact-us.png)
+Contact Us  
+![wireframe image of contact page](docs/frameworks/contact-us.png)
 
 
 # Deployment
@@ -360,3 +339,9 @@ Although no code was taken directly, I did get some help in the following
     - Footer - Done in co-ordination with the 'Love Running' project steps
     - Footer - https://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/ - helped to fix bug
     - Form - https://www.w3schools.com/html/html_forms.asp - Layout guidelines used
+
+## Acknowledgements 
+I would like to take the opportunity to thank:
+- The lovely and helpful people on the Code Institute Slack page for peer review and support
+- My mentor Jack Wachira for his guidance and direction
+- My wife Ciara that has been an amazing support during my return to education
