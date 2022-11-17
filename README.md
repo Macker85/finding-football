@@ -289,7 +289,7 @@ Google Lighthouse in Developer Tools was used to test the performance of the web
 
 |    Bug   |   Fix   |
 | ------------- | ------------- |
-| Footer not sticking to bottom of page  | Added CSS to pin it to bottom  |
+| Footer not sticking to bottom of page  | Added CSS to pin it to bottom and increase size of body |
 | Background image on Contact form not loading  | Had image loaded in wrong section |
 | Header being ignored  | Gave header size dimensions  |
 | Google Maps showing causing trouble with validator  | Take out transferred info from link to only necessary code  |
@@ -358,4 +358,5 @@ In order of appearance
 Although no code was taken directly, I did get some help in the following
 
     - Footer - Done in co-ordination with the 'Love Running' project steps
+    - Footer - https://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/ - helped to fix bug
     - Form - https://www.w3schools.com/html/html_forms.asp - Layout guidelines used
