@@ -137,14 +137,13 @@ CSS
 
 Google Lighthouse in Developer Tools was used to test the performance of the website.
 
-Desktop
-
+### Desktop
 ![Lighthouse desktop results for Index page](docs/lighthouse/index-desktop.png)
 ![Lighthouse desktop results for Where and When page](docs/lighthouse/where-and-when-desktop.png)
 ![Lighthouse desktop results for Gallery page](docs/lighthouse/gallery-desktop.png)
 ![Lighthouse desktop results for Contact Us page](docs/lighthouse/contact-us-desktop.png)
 
-Mobile
+### Mobile
 ![Lighthouse mobile results for Index page](docs/lighthouse/index-mobile.png)
 ![Lighthouse mobile results for Where and When page](docs/lighthouse/where-and-when-mobile.png)
 ![Lighthouse mobile results for Gallery page](docs/lighthouse/gallery-mobile.png)
