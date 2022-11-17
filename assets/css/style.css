@@ -11,7 +11,7 @@
 body {
     font-family: roboto, sans-serif;
     font-weight: 400;
-    color: #3a3a3a;
+    color: #3F4A3C;
     display: flex;
     min-height: 100vh;
     flex-direction: column;
@@ -240,22 +240,23 @@ tr, th {
 
 .background-image-contact {
     background: url(../images/background-photo.jpeg) no-repeat center center;
+    background-size: 65%;
 }
 
 #contact-form {
     flex: 1;
     margin: 0 auto;
     width: 500px;
-    clear: both;
 }
 
 .form-overview > ul {
     list-style-type: none;
-    padding: 15%;
+    padding: 5%;
 }
 
 .contact-label {
-    color: #fff;
+    font-size: 120%;
+    color: #3F4A3C;
     box-sizing: border-box;
 }
 
@@ -263,6 +264,11 @@ tr, th {
     width: 100%;
     padding: 10px;
     font-family: roboto, sans-serif;
+}
+
+.form-detail {
+    background: #cbd18f;
+    margin-top: 15%;
 }
 
 .submit-button {
@@ -368,6 +374,10 @@ tr, th {
     #gmap_canvas-1, #gmap_canvas-2 {
         width: 400px;
         height: 350px;
+    }
+
+    .background-image-contact {
+        background-size: auto;
     }
 }
 
